@@ -24,6 +24,8 @@
 - Helm v3.3.4 
 
 - Create a IAM user with programmatic access on AWS (Generate the access key and secret Key) 
+
+- Configure the AWSCLI by entering the access key and secret key.  
 ```
 ## How to run the application 
 clone the git Repository
