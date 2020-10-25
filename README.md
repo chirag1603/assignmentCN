@@ -25,12 +25,6 @@
 
 - Create a IAM user with programmatic access on AWS (Generate the access key and secret Key) 
 ```
-## Steps: 
-
-```Configure the AWSCLI by entering the access key and secret key.  
-
-Follow the Instructions mentioned in readme.md of https://github.com/chirag1603/assignmentCN.git 
-```
 ## How to run the application 
 clone the git Repository
 
