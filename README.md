@@ -9,5 +9,5 @@ clone the git Repository
 
 - run deploy.sh
 ```cd assignmentCN
-./deploy.sh```
+./deploy.sh
 
